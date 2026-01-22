@@ -23,9 +23,9 @@ body {
 }
 
 .logo {
-    color: #1877f2;
-    font-size: 60px;
-    margin-bottom: 15px;
+    width: 350px;
+    margin-bottom: -15px;
+    margin-left: -32px;
 }
 
 .left-side p {
